@@ -37,6 +37,7 @@ Google-Play-Store-App-ratings/
 ├── google.ipynb        # Main analysis notebook
 ├── googleplaystore.csv # Dataset of Google Play Store apps
 ├── requirements.txt          # Python dependencies
+├── analysis.md               # Written analysis file
 └── README.md                 # Project documentation
 ```
 
